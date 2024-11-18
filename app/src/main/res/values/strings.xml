@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">assignmentNumber2_Chaves</string>
+    <string name="searchButton">Search</string>
+    <string name="searchInputPlaceholder">Enter movie title</string>
+    <string name="mainTitle">Search Movies</string>
+    <string name="returnButton">Back to Search</string>
+</resources>
